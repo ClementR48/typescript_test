@@ -15,8 +15,9 @@ h1{
   letter-spacing: 50px;
   transition: 0.5s ease-in-out;
   cursor: pointer;
-  background-color: grey;
+  background-color: white;
   padding: 25px;
+
 }
 
 h1:hover{
