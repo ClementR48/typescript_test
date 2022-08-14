@@ -1,0 +1,19 @@
+{
+  "name": "test_typescript",
+  "version": "1.0.0",
+  "description": "test de typescript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClementR48/typescript_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClementR48/typescript_test/issues"
+  },
+  "homepage": "https://github.com/ClementR48/typescript_test#readme"
+}
